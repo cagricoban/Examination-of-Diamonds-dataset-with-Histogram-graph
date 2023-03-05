@@ -29,5 +29,5 @@ Price estimation according to the structural and quality information of diamonds
 
 **disaster**: the width of the diamond relative to the widest point (43-95)
 
-
+![Diamonds](https://github.com/cagricoban/Examination-of-Diamonds-dataset-with-Histogram-graph/blob/master/image/diamonds.png)
 
