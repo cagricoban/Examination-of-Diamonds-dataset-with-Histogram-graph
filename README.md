@@ -7,7 +7,9 @@ The relationship between the categorical variables of the diamond dataset in the
 ## Dataset Story
 ---------------------------------------------------------------
 
-###Variables
+### Variables
+
+
 Price estimation according to the structural and quality information of diamonds in a jewelery company.
 
 
